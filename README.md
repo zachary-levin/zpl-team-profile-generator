@@ -16,7 +16,7 @@
 
   ![Application Preview](team-profile-generator-screenshot.png)
   
-  ![Demonstration Video](https://youtu.be/Cm081NZr5xM)
+  [Demonstration Video](https://youtu.be/Cm081NZr5xM)
   ## License
 
   No license.
